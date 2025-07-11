@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Computer Science Engineering Sophomore who loves building, learning and innovating with code.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-vr-45&label=Profile%20views&color=059cfa&style=plastic" alt="abhinav-vr-45" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-v-r&label=Profile%20views&color=059cfa&style=plastic" alt="abhinav-vr-45" /> </p>
 
 - 🔭 I’m currently working on : **[Netflix Clone](https://github.com/abhinav-vr-45/Netflix-Clone)**
 
 - 🌱 I’m currently learning : **Cybersecurity Fundamentals, Web Development, Generative AI**
 
-- 👨‍💻 All of my projects are available at : **[https://abhinav-vr-45.github.io/Portfolio/](https://abhinav-vr-45.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at : **[https://abhinav-v-r.github.io/Portfolio/](https://abhinav-vr-45.github.io/Portfolio/)**
 
 - 📫 How to reach me : **abhinavvr2675@gmail.com**
 
@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://abhinav-vr-45.github.io/Portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.abhinavvr2675@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/abhinav-vr-45"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/abhinav-v-r"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/abhinavvr"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/abhinavvr45"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/abhinav_vr_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
@@ -43,7 +43,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-vr-45&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-v-r&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
 
@@ -118,7 +118,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-vr-45&theme=react-dark&hide_border=true&area=true) 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-v-r&theme=react-dark&hide_border=true&area=true) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
