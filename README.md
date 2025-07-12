@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-v-r&label=Profile%20views&color=059cfa&style=plastic" alt="abhinav-vr-45" /> </p>
 
-- 🔭 I’m currently working on : **[Netflix Clone](https://github.com/abhinav-vr-45/Netflix-Clone)**
+- 🔭 I’m currently working on : **[Netflix Clone](https://github.com/abhinav-v-r/Netflix-Clone)**
 
 - 🌱 I’m currently learning : **Cybersecurity Fundamentals, Web Development, Generative AI**
 
-- 👨‍💻 All of my projects are available at : **[https://abhinav-v-r.github.io/Portfolio/](https://abhinav-vr-45.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at : **[https://abhinav-v-r.github.io/Portfolio/](https://abhinav-v-r.github.io/Portfolio/)**
 
 - 📫 How to reach me : **abhinavvr2675@gmail.com**
 
-- 📄 Know about my experiences : **[https://abhinav-vr-45.github.io/Portfolio/cv.pdf](https://abhinav-vr-45.github.io/Portfolio/cv.pdf)**
+- 📄 Know about my experiences : **[https://abhinav-vr-45.github.io/Portfolio/cv.pdf](https://abhinav-v-r.github.io/Portfolio/cv.pdf)**
 
 
 **When I'm not coding or learning, you'll probably find me sketching ideas on a paper 🎨**
@@ -22,7 +22,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://abhinav-vr-45.github.io/Portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://abhinav-v-r.github.io/Portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.abhinavvr2675@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/abhinav-v-r"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/abhinavvr"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
