@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **abhinavvr2675@gmail.com**
 
-- 📄 Know about my experiences : **[https://abhinav-vr-45.github.io/Portfolio/cv.pdf](https://abhinav-v-r.github.io/Portfolio/cv.pdf)**
+- 📄 Know about my experiences : **[https://abhinav-v-r.github.io/Portfolio/cv.pdf](https://abhinav-v-r.github.io/Portfolio/cv.pdf)**
 
 
 **When I'm not coding or learning, you'll probably find me sketching ideas on a paper 🎨**
