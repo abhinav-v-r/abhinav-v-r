@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-v-r&label=Profile%20views&color=059cfa&style=plastic" alt="abhinav-vr-45" /> </p>
 
-- 🔭 I’m currently working on : **[Netflix Clone](https://github.com/abhinav-v-r/Netflix-Clone)**
+- 🔭 I’m currently working on : **[Dermal Scan AI](https://github.com/abhinav-v-r/Dermal-Scan)**
 
 - 🌱 I’m currently learning : **Cybersecurity Fundamentals, Web Development, Generative AI**
 
