@@ -3,7 +3,7 @@
 https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/abhinav-vr-45">Abhinav V R<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h2 align="center">Hi 👋, I'm <a href="https://github.com/abhinav-vr-45">Abhinav V R<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h2>
 <h3 align="center">A passionate Computer Science Engineering Sophomore who loves building, learning and innovating with code.</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNxOXgwZ3JwcjFkbXFwbHV5Mm9lbmh0eGt6cDBybnhyMW1qaXk1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
