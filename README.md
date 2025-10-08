@@ -15,7 +15,7 @@ https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e
 
 - 👨‍💻 All of my projects are available at : **[https://abhinav-v-r.github.io/Portfolio/](https://abhinav-v-r.github.io/Portfolio/)**
 
-- 📫 How to reach me : **abhinavvr2675@gmail.com**
+- 📫 How to reach me : **abhinavnyps@gmail.com**
 
 - 📄 Know about my experiences : **[https://abhinav-v-r.github.io/Portfolio/cv.pdf](https://abhinav-v-r.github.io/Portfolio/cv.pdf)**
 
