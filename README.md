@@ -9,15 +9,15 @@ https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-v-r&label=Profile%20views&color=059cfa&style=plastic" alt="abhinav-vr-45" /> </p>
 
-- 🔭 I’m currently working on : **[Dermal Scan AI](https://github.com/abhinav-v-r/Dermal-Scan)**
+- 🔭 I’m currently working on : **[Eco-Travel-Planner](https://github.com/abhinav-v-r/Eco-Travel-Planner)**
 
 - 🌱 I’m currently learning : **Cybersecurity Fundamentals, Web Development, Generative AI**
 
-- 👨‍💻 All of my projects are available at : **[https://abhinav-v-r.github.io/Portfolio/](https://abhinav-v-r.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at : **[abhinavvr.com](https://abhinavvr.vercel.app/)**
 
-- 📫 How to reach me : **abhinavnyps@gmail.com**
+- 📫 How to reach me : **abhinavvr2675@gmail.com**
 
-- 📄 Know about my experiences : **[https://abhinav-v-r.github.io/Portfolio/cv.pdf](https://abhinav-v-r.github.io/Portfolio/cv.pdf)**
+- 📄 Know about my experiences : **[abhinavvr.com/cv](https://drive.google.com/file/d/10swL25HYPG1DicSCmWkGwAU0N2rz0YDc/view?usp=drivesdk)**
 
 
 **When I'm not coding or learning, you'll probably find me sketching ideas on a paper 🎨**
