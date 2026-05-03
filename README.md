@@ -11,7 +11,7 @@ https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e
 
 - 🔭 I’m currently working on : **[Eco-Travel-Planner](https://github.com/abhinav-v-r/Eco-Travel-Planner)**
 
-- 🌱 I’m currently learning : **Cybersecurity Fundamentals, Web Development, Generative AI**
+- 🌱 I’m currently learning : **Deep Learning, LLM Orchestration, RAG Pipelines, Web Development, Generative AI**
 
 - 👨‍💻 All of my projects are available at : **[abhinavvr.com](https://abhinavvr.vercel.app/)**
 
